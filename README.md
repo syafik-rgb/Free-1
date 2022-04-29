@@ -1,3 +1,7 @@
+Apk termux
+
+https://f-droid.org/repo/com.termux_118.apk
+
 #MENJALAKAN TOLS#
 
 $ pkg update && pkg upgrade
